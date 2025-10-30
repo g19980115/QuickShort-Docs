@@ -27,4 +27,7 @@ export default defineConfig({
   },
   base: "/QuickShort-Docs/",
   srcDir: "src",
+  build: {
+      outDir: 'docs/.vitepress/dist'   //构建产物输出目录
+  },
 })
