@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 // 根据环境变量决定 base 路径
 const getBasePath = () => {
   // 如果是在 GitHub Pages 构建环境，使用仓库名作为路径
-  if (process.env.GITHUB_PAGES === true) {
+  if (process.env.GITHUB_PAGES === "true") {
     return '/QuickShort-Docs/';
   }
   // 在 Cloudflare Pages 或其他环境，使用根路径
