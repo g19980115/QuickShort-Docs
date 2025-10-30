@@ -2,6 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/QuickShort-Docs/",
+  srcDir: "src",
+  build: {
+    outDir: 'docs/.vitepress/dist'   //构建产物输出目录
+  },
   title: "快捷方式使用手册",
   description: "快捷方式使用手册",
   themeConfig: {
@@ -24,10 +29,6 @@ export default defineConfig({
     socialLinks: [
 //       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
-  },
-  base: "/QuickShort-Docs/",
-  srcDir: "src",
-  build: {
-      outDir: 'docs/.vitepress/dist'   //构建产物输出目录
-  },
+  }
+  
 })
