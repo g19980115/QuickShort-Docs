@@ -31,7 +31,9 @@ export default defineConfig({
       {
         text: '使用手册',
         items: [
-          { text: '概览', link: '/guide' }
+          { text: '概览', link: '/guide' },
+          { text: 'WebDav配置', link: '/webdavHelp' },
+          { text: '网络导入-源规则文档', link: '/sourceRule' }
         ]
       }
     ],
