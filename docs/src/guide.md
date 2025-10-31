@@ -21,14 +21,16 @@
 ::: tip
 以下是一个抓取链接的教程，以支*宝小程序为例，由酷安用户@a65101855分享
 
-下载Alook浏览器，支*宝小程序右上角...打开复制链接后，粘贴到Alook浏览器中并访问，然后会弹出对话框，拷贝后放到快捷方式，添加链接即可
+下载Alook浏览器，支*宝小程序右上角...，然后点分享，滑动找到复制链接后，粘贴到Alook浏览器中并访问，然后会弹出对话框，拷贝后放到快捷方式，添加链接即可
 :::
 
 ## 添加小程序
-小程序原始id是gh_开头的id，在此处可以找到：小程序右上角菜单-点击小程序名称-点击小程序描述-更多资料-账号原始id
+小程序原始id是gh_开头的id，在此处可以找到：小程序右上角菜单-点击小程序名称-点击小程序描述-更多资料-账号原始id<br>
 [点此添加一个示例](quickshort://share?n=/oRtskWOopXRZXmB2Y+zv7BTEyRH4GIgQ3juxt2+oS2u8cQWAGc9ttOH4RSbSiuLYCS0dV2XyzGqx/6354FvBcPg8HFM/dAKjwLkKHEPHP71M9H/yzkDxex5paMHy8+lupWCaTjpqlX6iCMlK5KjS8Q/YlbWux8Li0uW7udsi9FMqw8CUxi6Av+7K7YvXl4kfGUvn3klN7dWKpLoOFtsgPd9gmzrSPMydXJt7pIwG05VK3SWKB7H8v5IfcEzdKtJrlAh/iMWb8bSIjDh9X2bDLL7ajCs7tGmhZ6SR1a68mQ)
 
+::: details 查看步骤图片
+![图片](/xcx_help.jpg)
+:::
 
 ## 无法启动？
-
 如果在应用内点测试可以启动，而在桌面快捷方式/磁贴无法启动时，需要设置[后台白名单](battery)

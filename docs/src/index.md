@@ -8,7 +8,7 @@ hero:
   tagline: 快人一步
   actions:
     - theme: brand
-      text: 快速开始
+      text: 开始使用
       link: /guide
     - theme: alt
       text: 更新日志
