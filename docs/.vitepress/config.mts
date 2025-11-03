@@ -40,7 +40,21 @@ export default defineConfig({
 
     socialLinks: [
 //       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    ],
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
+
+    outline: {
+      label: '页面导航'
+    },
+
+    lastUpdated: {
+      text: '最后更新于'
+    },
+    returnToTopLabel: '回到顶部',
+    sidebarMenuLabel: '菜单',
   }
 
 })
