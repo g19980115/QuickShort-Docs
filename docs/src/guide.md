@@ -19,7 +19,7 @@
 链接支持URL SCHEME [示例](quickshort://share?n=+bbrXOJZB8n5yfzZml0jXVIOJlVn3qOPFpHz9qHaVzZd8m19wuQ32eTy/mmdEmhGgpSjHBTTm98J+D/VqDOZwrf7LwGm4KGOn3EBUUrUqTXyHfNcFsHX+t31EKizZ2NeJ4LOJrlVajT/PtAKn8K8uTFRgD4HKtA8S17fiVpqIUeRHqHmiyzbRmr1rzKdzP1PyjSNssOxsi0RigudMZku3uq1wmiBLMWuNPG5qFjnlGo2UzuqxH+JamMZ+hl0Q71jZBbiu1yP2G5WloZAfpdYDepsp8xYIvncu8K/5gwitY0byUpq7KEmQKhKzrKUyxh0)、Intent链接 [示例](quickshort://share?n=PRPHz197+3bXV/3KNCgiViUN0DtJ5TI4cDFjWjyZy1JV/aBLOi1F2nqni13Dau/fw3BQczsW4sB0/I22VoTZCwSc4e3ZILowpgsWwwnpbyYLnjOurtmipEbKxk9orlw+mlKWlfn06zX+VaIgWF+Ci43aBuqcLFzaOhfhj9KhJqlxc1tR8MAoKHiK9x0xEu+n4ONVmK1qlwoGPugMUtcN64DQVUzr3mK5KTRVDb34tr34esXNvHtnbTBunxxsx1arTVMK/RlPOjsQuym98IEftsPHBa1AubX+UuBeWqPOTsao5wVay3LsoHDqxBkktp53/lW66G02ViEUI1Uotd7HikPba1E3Yk47DKjIB1cNO04+wRQEM8hCQTjqlFfpA1Ym)、android-app链接
 
 ::: tip
-以下是一种抓取链接的教程<br>
+以下是一种查看跳转链接的教程<br>
 如果网页支持跳转到App，那么此时可以将网址输入到“[添加链接](quickshort://share?n=b68oIiwREJH1JaG/l62y1rLWwNLAQICisu25/0ENY6hCFFrHXd6FRSedhCkZJ8RB3sLG3CsUY909rxunDX3uG6vLMLlVyLHDoHYS8p22CoxWBmBHv1LezAVWLOlMJYfwgUb/KvMO1SNGDLv6ESZPXQ)”中，包名选择快捷方式的“打开网页”，点击测试后，在网页中跳转到app，会弹窗提示url scheme跳转链接
 
 [点此添加一个示例](quickshort://share?n=b68oIiwREJH1JaG/l62y1j9jnLuQDP4y53+5cQRAOiLo4WjbbbwOqtqKCt7nQrzrejP+JJwzCt4/Xhd5hVE3bRN6DMJzlE6TKrYayE1QZlQfEE85IhRp8K7sruZIz65Krh7JZrVNeT0Jl7Zb3C/r15v08mPju6j081phW7Rok29fZDOh2dbWDN8PgtNPFrD9Hg+XoelDbkJQZ6W1CTLaP1rd/+guCY9UBMYWoREUTmk)
@@ -35,3 +35,6 @@
 
 ## 无法启动？
 如果在应用内点测试可以启动，而在桌面快捷方式/磁贴无法启动时，需要设置[后台白名单](battery)
+
+## 主页背景黑屏？
+VIVO、OPPO机型不支持桌面背景透明，可在**设置-界面设置**中使用背景图片代替
