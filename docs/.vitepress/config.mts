@@ -21,6 +21,7 @@ export default defineConfig({
   description: "快捷方式使用手册",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/ic_icon.png',
     nav: [
       { text: '首页', link: '/' },
       { text: '概览', link: '/guide' },
