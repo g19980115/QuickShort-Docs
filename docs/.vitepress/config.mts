@@ -19,6 +19,11 @@ export default defineConfig({
   },
   title: "快捷方式使用手册",
   description: "快捷方式使用手册",
+  head: [
+      ['link',
+        { rel: 'icon', type: 'image/png', href: '/ic_icon.png' }
+      ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/ic_icon.png',
