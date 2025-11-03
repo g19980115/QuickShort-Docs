@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "快捷方式"
   text: "使用手册"
-  tagline: 快人一步
+  tagline: ''
   actions:
     - theme: brand
       text: 开始使用
