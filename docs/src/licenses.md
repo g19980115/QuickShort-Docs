@@ -7,6 +7,7 @@
 | [OkHttp](https://github.com/square/okhttp)                                          | Apache-2.0                    |
 | [gson](https://github.com/google/gson)                                              | Apache-2.0                    |
 | [Glide](https://github.com/bumptech/glide)                                          | BSD, part MIT and Apache 2.0. |
+| [glide-transformations](https://github.com/wasabeef/glide-transformations)          | Apache 2.0                    |
 | [BasePopup](https://github.com/razerdp/BasePopup)                                   | Apache-2.0                    |
 | [MMKV](https://github.com/tencent/mmkv)                                             | BSD 3                         |
 | [ColorPickerView](https://github.com/skydoves/ColorPickerView)                      | Apache-2.0                    |
