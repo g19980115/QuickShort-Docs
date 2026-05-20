@@ -35,5 +35,4 @@
 | [MagicIndicator](https://github.com/hackware1993/MagicIndicator)                    | MIT                           |
 | [AndroidLiquidGlassView](https://github.com/QmDeve/AndroidLiquidGlassView)          | Apache-2.0                    |
 | [Liquid-glass-android](https://github.com/opiumfive/Liquid-glass-android)           | MIT license                   |
-
-
+| [DeviceCompat](https://github.com/getActivity/DeviceCompat)                         | Apache-2.0                    |
